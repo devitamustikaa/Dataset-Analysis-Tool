@@ -111,6 +111,7 @@ def get_tendency(value):
 
 
 def main():
+
     st.title("Dataset Analysis Tool")
 
     # Form to upload the CSV file
